@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm preparing for iOS developers 🍎
+##### I'm preparing for iOS developers 🍎
 
 <!--
 **ljdongz/ljdongz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
