@@ -3,7 +3,7 @@
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Lee%20Jeong-Dong&height=150&fontSize=60&desc=iOS%20Developer&descAlignY=85&descAlign=68)
 
-<hr>
+<br>
 <br>
 
 
