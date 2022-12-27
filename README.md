@@ -1,7 +1,7 @@
 
 <div align=center>
 
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=00afb9&text=Lee%20Jeong-Dong&height=150&fontSize=60&desc=iOS%20Developer&descAlignY=85&descAlign=68)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=758bfd&text=Lee%20Jeong-Dong&height=150&fontSize=60&desc=iOS%20Developer&descAlignY=85&descAlign=68)
 
 <!-- <br>
 <br>
